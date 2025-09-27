@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# nb
+.ipynb_checkpoints/
+
+# venv
+.venv/
+env/
+venv/
+
+.vscode/
+
+# os 
+.DS_Store
+Thumbs.db
+
+*.tsv
+*.xlsx
+*.h5
+*.parquet
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+*.log
+
+# env
+.env
