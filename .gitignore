@@ -8,6 +8,9 @@ __pycache__/
 # nb
 .ipynb_checkpoints/
 
+# all datasets
+*.csv
+
 # venv
 .venv/
 env/
